@@ -9,4 +9,4 @@ This project features an interactive Power BI dashboard designed to track and an
 * **Profit Trends:** The dashboard tracks Sum of Profit alongside Sales to identify high-margin periods and regions.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](image_051456.png)
+(https://github.com/TaspiaJannat/Retail-Sales-Analytics-PowerBI/blob/main/Image.png?raw=true)
