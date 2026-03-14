@@ -7,6 +7,3 @@ This project features an interactive Power BI dashboard designed to track and an
 * **Geographic Distribution:** Sales are analyzed across South America, Asia, Europe, North America, Africa, and Oceania.
 * **Category Analysis:** "Home" and "Mens" categories are the top performers in the Ready Wear chain.
 * **Profit Trends:** The dashboard tracks Sum of Profit alongside Sales to identify high-margin periods and regions.
-
-## 📸 Dashboard Preview
-Image.png
